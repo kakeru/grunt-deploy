@@ -1,0 +1,4 @@
+/node_modules
+/sample-deploy/setting.json
+/sample-deploy/node_modules
+/sample-deploy/repo/node_modules

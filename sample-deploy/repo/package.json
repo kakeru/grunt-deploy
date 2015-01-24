@@ -1,0 +1,10 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": ">=0.0.0",
+    "grunt-contrib-copy": ">=0.0.0"
+  }
+}

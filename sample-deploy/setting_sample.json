@@ -1,0 +1,10 @@
+{
+	"dev": {
+		"dest": "/var/www/sample/dev",
+		"host": "192.168.1.30"
+	},
+	"prd": {
+		"dest": "/var/www/sample/prd",
+		"host": "192.168.1.30"
+	}
+}
